@@ -1,0 +1,8 @@
+clear-day ==01d &&clear sky;
+clear-night==01n&& clear sky;
+partly-cloudy-day/nigth==02d.png 	02n.png 	few clouds &&04d.png 	04n.png 	broken clouds;
+cloudy ==03d.png 	03n.png 	scattered clouds;
+rain == 09d.png 	09n.png 	shower rain && 10d.png 	10n.png 	rain;
+sleet == 11d.png 	11n.png 	thunderstorm;
+snow == 13d.png 	13n.png 	snow;
+fog == 50d.png 	50n.png 	mist;
